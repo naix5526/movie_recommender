@@ -41,7 +41,7 @@ This is a simple movie recommendation system. I have used Content Based Recommen
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * Python 3.9
 * Scikit Learn 0.24.2
 * Streamlit==0.87.0
