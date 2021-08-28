@@ -73,6 +73,10 @@ Prior to running it into your local machine following steps need to be done
    ```sh
    streamlit run app.py
    ```
-   
+## Dataset
+
+Dataset used in this project has been taken from kaggle
+  
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 
