@@ -1,4 +1,6 @@
 # MOVIE RECOMMENDATION SYSTEM
+## DEMO
+![streamlit-app-2021-08-23-11-08-76](https://user-images.githubusercontent.com/66814719/135395791-0f2c1e16-b1bf-4482-8d30-6a11ee099ca0.gif)
 <br />
 
 
